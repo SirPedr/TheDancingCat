@@ -1,0 +1,15 @@
+.footer {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  background: #242424;
+  text-align: center;
+  font-size: 0.8rem;
+  line-height: 1.5;
+  padding: 0 8px;
+}
+
+.footer-link,
+.footer-link:visited {
+  color: #fac738;
+}
